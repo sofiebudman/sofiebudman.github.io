@@ -4,8 +4,16 @@ body{
     padding-right: 10%;
     padding-top: 5%;
     padding-bottom: 5%;
-    font-family: 'Courier New', Courier, monospace;
     background-color: #f0f0f0;
+}
+h1{
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Times New Roman';
+}
+h2{
+    font-family: 'Courier New';
 }
 section{
     padding: 20px;
